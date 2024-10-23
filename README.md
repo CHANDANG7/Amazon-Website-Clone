@@ -1,4 +1,5 @@
 Amazon Website Clone
+
 This project is a front-end clone of the Amazon website, designed using HTML and CSS. The goal of this project is to replicate the look and feel of the Amazon homepage, including its navigation bar, product sections, and footer. This clone focuses on styling and layout, without adding functionality like search, authentication, or shopping cart management.
 
 Features:
